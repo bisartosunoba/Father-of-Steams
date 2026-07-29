@@ -1,0 +1,14 @@
+[
+
+{
+"name": "Terra Bacterias",
+"leaderName": "Mother Bacteria",
+"adjective": ["Bacteria"],
+"startIntroPart1": "Look at the state they’ve reduced the planet to... Are we going to let this happen? I highly doubt it.",
+
+"outerColor": [10,39,12]
+"innerColor": [194,212,211],
+"cities": ["Motherland Terra","Nanoium","Parasite Hood"]
+
+}
+]
