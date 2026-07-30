@@ -8,7 +8,7 @@
     "requiredTech": "Steam Power",
     "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
-    "attackSound": "tankshot"
+    "attackSound": "horse"
     
     
   }
