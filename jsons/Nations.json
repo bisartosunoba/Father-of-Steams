@@ -15,7 +15,10 @@
 "name": "Lovers of the Wall",
 "leaderName": "IV.Tom",
 "adjective": ["Wall Lovers"],
-"startIntroPart1": "The grandeur and majesty of those walls simply take my breath away! Huh? You were here too, my friend!? Come on, let's become a Steampunk legend!",
+"startIntroPart1": "How could they not love the walls that saved them from extinction? During the ceremony—which is a time of war—the people known as the Lovers of the Wall renew the walls and polish their weapons, ensuring they are in prime condition; after all, they would not want to ruin the ceremony.",
+"startIntroPart2": "The grandeur and majesty of those walls simply take my breath away! Huh? You were here too, my friend!? Come on, let's become a Steampunk legend!",
+"declaringWar": "It's sheer stupidity, unless you move the ships overland.",
+  
 "uniqueName": "Joy of the Wall",
 "uniques": ["[75]% City Strength from defensive buildings <when at war>"]
 "outerColor": [0,9,92],
