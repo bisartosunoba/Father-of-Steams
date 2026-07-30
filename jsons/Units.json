@@ -22,7 +22,7 @@
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
-    "replacesTo": "Land Leviathan"
+    "replaces": "Land Leviathan"
   }
 
 
