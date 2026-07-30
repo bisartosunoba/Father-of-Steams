@@ -19,6 +19,7 @@
     "strength": 120,
     "cost": 575,
     "requiredTech": "Land Leviathan",
+    "requiredResource": "Luboric",
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
