@@ -13,15 +13,8 @@ NationIcons/Lovers of the Wall
   index: -1
 NationIcons/Terra Bacterias
   rotate: false
-  xy: 812, 449
+  xy: 524, 4
   size: 512, 512
   orig: 512, 512
-  offset: 0, 0
-  index: -1
-NationIcons/cartoon-style-whale-gray-body-black-outline-shown-swimming-white-background-cartoon-style-whale-illustration-416114275
-  rotate: false
-  xy: 4, 524
-  size: 800, 437
-  orig: 800, 437
   offset: 0, 0
   index: -1
