@@ -15,9 +15,9 @@
   {
     "name": "Mech Leviathan",
     "unitType": "Armored",
-    "movement": 3,
-    "strength": 120,
-    "cost": 575,
+    "movement": 2,
+    "strength": 140,
+    "cost": 800,
     "requiredTech": "Land Leviathan",
     "requiredResource": "Luboric",
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
