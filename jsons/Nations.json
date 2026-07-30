@@ -17,8 +17,8 @@
 "adjective": ["Wall Lovers"],
 "startIntroPart1": "The grandeur and majesty of those walls simply take my breath away! Huh? You were here too, my friend!? Come on, let's become a Steampunk legend!",
 
-"outerColor": [0,9,92]
-"innerColor": [202,207,247]
+"outerColor": [0,9,92],
+"innerColor": [202,207,247],
 "cities": ["The Elegant Wall","The Mighty Wall","The Hot Wall","Tom's Wall"]
 }
 ]
