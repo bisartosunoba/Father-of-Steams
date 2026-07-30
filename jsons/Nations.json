@@ -10,5 +10,15 @@
 "innerColor": [194,212,211],
 "cities": ["Motherland Terra","Nanoium","Parasite Hood","Antartica Bacterias"]
 
+},
+{
+"name": "Lovers of the Wall",
+"leaderName": "IV.Tom",
+"adjective": ["Wall Lovers"],
+"startIntroPart1": "The grandeur and majesty of those walls simply take my breath away! Huh? You were here too, my friend!? Come on, let's become a Steampunk legend!",
+
+"outerColor": [97,26,166]
+"innerColor": [255,255,255],
+"cities": ["The Elegant Wall","The Mighty Wall","The Hot Wall","Tom's Wall"]
 }
 ]
