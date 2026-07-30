@@ -11,6 +11,18 @@
     "attackSound": "tankshot"
     
     
+  },
+  {
+    "name": "Mech Leviathan",
+    "unitType": "Armored",
+    "movement": 3,
+    "strength": 120,
+    "cost": 575,
+    "requiredTech": "Land Leviathan",
+    "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
+    "uniqueTo": "Titan Kin",
+    "attackSound": "tankshot",
+    "replacesTo": "Land Leviathan"
   }
 
 
