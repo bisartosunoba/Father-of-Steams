@@ -3,7 +3,7 @@
     "name": "Horse of Joy",
     "unitType": "Mounted",
     "movement": 4,
-    "strenght": 65,
+    "strenght": 50,
     "cost": 450,
     "requiredTech": "Steam Power",
     "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
