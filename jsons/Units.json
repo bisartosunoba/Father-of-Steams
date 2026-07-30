@@ -1,1 +1,19 @@
+[
+  {
+    "name": "Horse of Joy",
+    "unitType": "Armored",
+    "movement": 4,
+    "strenght": 65,
+    "cost": 450,
+    "requiredTech": "Steam Power",
+    "uniques": ["Can move after attacking","[2] additional attacks per turn","Never appears as a Barbarian unit"],
+    "uniqueTo": "Lovers of the Wall",
+    "attackSound": "tankshot"
+    
+    
+  }
 
+
+
+  
+]
