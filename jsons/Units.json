@@ -45,7 +45,7 @@
   },
   {
    "name": "Rosed Bull",
-    "unitType": "Melee",
+    "unitType": "Armored",
     "movement": 2,
     "strength": 300,
     "cost": 1150,
