@@ -4,30 +4,54 @@
 "name": "Titan Kin",
 "leaderName": "Thomas the Great",
 "adjective": ["Titan Kins"],
+  
 "startIntroPart1": "The 'Titan Kin' corporation developed its own military policy and industry by challenging states; the council members aim to expand from a corporation into a state, and they intend to achieve this through various technologies.",
 "startIntroPart2": "Look at those massive walking robots, who needs tanks when you have them?",
+  
 "attacked": "The Council will not forget this.",
 "declaringwar": "The Council's decision: DEATH!",
 "defeated": "So, what kind of policy should we have pursued...",
+  
+"denounced": "As expected.",
+"neutralHello": "Hello.",
+"hateHello": "What a waste.",
+"declaringFriendship": "The Council has chosen you; what do you say to taking the next step with us?",
+"tradeRequest": "It's the most logical thing for both of us.",
+
+  
+  
 "uniqueName": "Instills Confidence",
 "uniques":["[50]% [Happiness] [in all cities with a garrison]"],
+  
 "outerColor": [240,133,39],
 "innerColor": [204,29,33],
+  
 "cities": ["Company Capital","Nanoium","Titan BrotherHood","Rusty Hood","Cheaper Company","Council Hood",
 "Base of Thomas"]
 
 },
+  
 {
 "name": "Lovers of the Wall",
 "leaderName": "IV.Cidar",
 "adjective": ["Wall Lovers"],
+  
 "startIntroPart1": "How could they not love the walls that saved them from extinction? During the ceremony—which is a time of war—the people known as the Lovers of the Wall renew the walls and polish their weapons, ensuring they are in prime condition; after all, they would not want to ruin the ceremony.",
 "startIntroPart2": "The grandeur and majesty of those walls simply take my breath away! Huh? You were here too, my friend!? Come on, let's become a Steampunk legend!",
+  
 "attacked": "It's sheer stupidity, unless you move the ships overland.",
 "declaringWar":"What a joyous ceremony at the blessed wall!",
 "defeated":"The ceremony is ruined; how am I going to explain this...", 
+
+"denounced": "You're very boring.",
+"neutralHello": "Hello.",
+"hateHello": "Boring guy?",
+"declaringFriendship": "Let's be partners at the ceremony, man!",
+"tradeRequest": "An agreement that will cheer us both up!",
+
 "uniqueName": "Joy of the Wall",
 "uniques": ["[75]% City Strength from defensive buildings <when at war>"]
+  
 "outerColor": [0,9,92],
 "innerColor": [202,207,247],
 "cities": ["The Elegant Wall","The Mighty Wall","The Hot Wall","Cidar's Wall",
