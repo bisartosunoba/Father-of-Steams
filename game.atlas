@@ -20,14 +20,14 @@ NationIcons/Lovers of the Wall
   index: -1
 NationIcons/Terra Bacterias
   rotate: false
-  xy: 4, 4
+  xy: 524, 524
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 NationIcons/Titan Kin
   rotate: false
-  xy: 524, 524
+  xy: 1044, 1044
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
@@ -39,16 +39,23 @@ UnitIcons/Horse of Joy
   orig: 512, 512
   offset: 0, 0
   index: -1
+UnitIcons/Rosed Bull
+  rotate: false
+  xy: 4, 4
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 UnitIcons/Titan Leviathan
   rotate: false
-  xy: 1044, 1044
+  xy: 524, 4
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
 UnitIcons/Titan Warrior
   rotate: false
-  xy: 524, 4
+  xy: 1044, 524
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
