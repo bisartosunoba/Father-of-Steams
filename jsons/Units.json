@@ -38,8 +38,7 @@
     "upgradesTo": "Titan Leviathan",
     "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
-    "attackSound": "tankshot",
-    "replaces": "Landship"
+    "attackSound": "metalhit",
   }
 
 
