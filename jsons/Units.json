@@ -8,7 +8,8 @@
     "requiredTech": "Steam Power",
     "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
-    "attackSound": "tankshot"
+    "attackSound": "tankshot",
+    "civilopediaText": [{"text":"An agile, massive mechanical horse tears through, driven by the power of steam."}]
     
     
   },
@@ -23,6 +24,7 @@
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
+    "civilopediaText":[{"text":"The massive cannons mounted on their shoulders are counting down the days until they can open fire on their opponents"}],
     "replaces": "Land Leviathan"
   },
   
@@ -39,6 +41,7 @@
     "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "metalhit",
+    "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
   }
 
 
