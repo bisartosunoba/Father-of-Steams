@@ -51,7 +51,7 @@
     "cost": 1150,
     "requiredTech": "Land Leviathan",
     "requiredResource": "Luboric",
-    "uniques": ["[+300]% Strength <vs cities>","Can only attack [City] units","Nuclear weapon of Strength [1]","Blast radius [2]","Self-destructs when attacking","Never appears as a Barbarian unit"],
+    "uniques": ["[+300]% Strength <vs cities>","Nuclear weapon of Strength [1]","Blast radius [2]","Self-destructs when attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "nuke",
     "civilopediaText":[{"text":"A bull even bigger than the largest tank, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
