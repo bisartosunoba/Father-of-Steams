@@ -24,7 +24,7 @@
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
-    "civilopediaText":[{"text":"The massive cannons mounted on their shoulders are counting down the days until they can open fire on their opponents"}],
+    "civilopediaText":[{"text":"The massive cannons mounted on their shoulders are counting down the days until they can open fire on their opponents."}],
     "replaces": "Land Leviathan"
   },
   
@@ -42,6 +42,19 @@
     "uniqueTo": "Titan Kin",
     "attackSound": "metalhit",
     "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
+  },
+  {
+   "name": "Rosed Bull",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 300,
+    "cost": 1150,
+    "requiredTech": "Land Leviathan",
+    "requiredResource": "Luboric",
+    "uniques": ["[+300]% Strength <vs cities>","Can only attack [City] units","Nuclear weapon of Strength [1]","Blast radius [2]","Self-destructs when attacking","Never appears as a Barbarian unit"],
+    "uniqueTo": "Golden Sultanate",
+    "attackSound": "nuke",
+    "civilopediaText":[{"text":"A bull even bigger than the largest tank, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
   }
 
 
