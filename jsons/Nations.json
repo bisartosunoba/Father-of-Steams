@@ -15,6 +15,8 @@
 "denounced": "As expected.",
 "neutralHello": "Hello.",
 "hateHello": "What a waste.",
+"introduction": "A company moving towards the next step",
+  
 "declaringFriendship": "The Council has chosen you; what do you say to taking the next step with us?",
 "tradeRequest": "It's the most logical thing for both of us.",
 
@@ -46,6 +48,8 @@
 "denounced": "You're very boring.",
 "neutralHello": "Hello.",
 "hateHello": "Boring guy?",
+"introduction":"Nice to meet you! I look forward to seeing you at the ceremony.",
+  
 "declaringFriendship": "Let's be partners at the ceremony, man!",
 "tradeRequest": "An agreement that will cheer us both up!",
 
