@@ -13,7 +13,7 @@
     
   },
   {
-    "name": "Mech Leviathan",
+    "name": "Titan Leviathan",
     "unitType": "Armored",
     "movement": 2,
     "strength": 140,
@@ -24,6 +24,22 @@
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
     "replaces": "Land Leviathan"
+  },
+  
+  {
+    "name": "Titan Warrior",
+    "unitType": "Armored",
+    "movement": 3,
+    "strength": 95,
+    "cost": 500,
+    "requiredTech": "Landships",
+    "requiredResource": "Coal",
+    "obseleteTech": "Land Leviathan",
+    "upgradesTo": "Titan Leviathan",
+    "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
+    "uniqueTo": "Titan Kin",
+    "attackSound": "tankshot",
+    "replaces": "Landship"
   }
 
 
