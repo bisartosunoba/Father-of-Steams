@@ -63,8 +63,8 @@
 "tradeRequest": "This is the best option for both of us",
 "uniqueName": "The People of the Sultanate",
 "uniques": ["[50]% [Culture] [in annexed cities]"], 
-"outerColor": [224,193,0],
-"innerColor": [253,220,92],
+"outerColor": [248,252,255],
+"innerColor": [84,5,0],
 "cities": ["Istanbul","Edirne","Konya","Diyarbakır",
 "Trabzon","Damascus","Cyprus"]
 }
