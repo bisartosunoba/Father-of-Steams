@@ -45,6 +45,28 @@
 "innerColor": [202,207,247],
 "cities": ["The Elegant Wall","The Mighty Wall","The Hot Wall","Cidar's Wall",
 "Sector Wall","Joy's Wall","Durable Wall"]
+},
+{
+"name": "Golden Sultanate",
+"leaderName": "Sultan Mehmet",
+"adjective": ["Ottomans"],
+"startIntroPart1": "A culturally rich realm composed of diverse peoples united by the bond of faith. Relentless against oppressors yet compassionate toward the downtrodden; they kneel only in the presence of Allah.",
+"startIntroPart2": "I swear by Allah that our sole aim is to exalt our religion and protect the poor and defenceless of the Ummah; our only response to those who seek to lead us astray is bullets.",
+"attacked": "It's sheer stupidity, unless you move the ships overland.",
+"declaringWar":"Let the jihad begin.",
+"defeated":"Even if we cease to exist, our religion will not...", 
+"denounced": "You are adding to your record of deeds.",
+"neutralHello": "Assalamu alaikum",
+"hateHello": "Infidel",
+"introduction":"Assalamu alaikum, may God’s mercy be upon you.",
+"declaringFriendship": "Join the Ummah and enter the right path, my friend.",
+"tradeRequest": "This is the best option for both of us",
+"uniqueName": "The People of the Sultanate",
+"uniques": ["[50]% [Culture] [in annexed cities]"], 
+"outerColor": [211,175,55],
+"innerColor": [253,220,92],
+"cities": ["Istanbul","Edirne","Konya","Diyarbakır",
+"Trabzon","Damascus","Cyprus"]
 }
 
 
