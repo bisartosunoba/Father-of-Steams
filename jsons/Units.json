@@ -50,9 +50,12 @@
     "strength": 200,
     "cost": 1150,
     "requiredTech": "Land Leviathan",
+    "requiredResource": "Luboric",
+    
     "uniques": ["[+300]% Strength <vs cities>",
       "Nuclear weapon of Strength [5]",
-      "Blast radius [5]","Self-destructs when attacking","Costs [3] [Luboric]","Never appears as a Barbarian unit"],
+      "Blast radius [5]","Self-destructs when attacking","Triggers the following global alert: [May God have mercy on you, for the bull won't.]"
+      ,"Never appears as a Barbarian unit","Limited to [1] per Civilization"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "nuke",
     "civilopediaText":[{"text":"A bull even bigger than the largest tank, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
