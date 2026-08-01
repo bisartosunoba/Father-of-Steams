@@ -53,7 +53,7 @@
     "requiredResource": "Luboric",
     
     "uniques": ["[+300]% Strength <vs cities>",
-      "Nuclear weapon of Strength [5]",
+      "Nuclear weapon of Strength [25]",
       "Blast radius [5]","Self-destructs when attacking","Triggers the following global alert: [May God have mercy on you, for the bull won't.]"
       ,"Never appears as a Barbarian unit","Limited to [1] per Civilization"],
     "uniqueTo": "Golden Sultanate",
