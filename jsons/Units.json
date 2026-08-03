@@ -74,18 +74,6 @@
 		"hurryCostModifier": 20
 	},
 	{
-		"name": "Scout",
-		"unitType": "Scout",
-		"movement": 2,
-		"strength": 5,
-		"cost": 25,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
-	},
-	{
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
@@ -99,6 +87,7 @@
 			{"text": "This is your basic, club-swinging fighter."}
         ]
 	},
+	
 	// Great People
 	
 	{
