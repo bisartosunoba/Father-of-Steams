@@ -26,16 +26,15 @@
   },
   
   {
-    "name": "Titan Warrior",
+    "name": "Pehlivan",
     "unitType": "Armored",
     "movement": 3,
     "strength": 95,
     "cost": 500,
-    "requiredResource": "Coal",
-    "obseleteTech": "Land Leviathan",
+    "requiredResource": "Iron",
     "upgradesTo": "Titan Leviathan",
     "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
-    "uniqueTo": "Titan Kin",
+    "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
     "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
   },
