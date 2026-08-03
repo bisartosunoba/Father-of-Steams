@@ -13,11 +13,24 @@
     
     
   },
+	{
+    "name": "Walking Wall",
+    "unitType": "Colossal",
+    "movement": 2,
+    "strength": 120,
+    "cost": 1000,
+    "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
+    "uniqueTo": "Lovers of the Wall",
+    "attackSound": "tankshot",
+    "civilopediaText": [{"text":"An agile, massive mechanical horse tears through, driven by the power of steam."}]
+    
+    
+  },
   {
     "name": "Colossal Titan",
     "unitType": "Colossal",
     "movement": 2,
-    "strength": 140,
+    "strength": 105,
     "cost": 800,
     "uniques": ["[+200]% Strength <vs cities>","Never appears as a Barbarian unit"],
     "uniqueTo": "Titan Kin",
