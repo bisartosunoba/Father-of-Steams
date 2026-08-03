@@ -667,6 +667,10 @@
         "column": 26,
         "row": 3
 	},
+	{
+		"name": "Ignore terrain cost",
+		"uniques": ["Ignores terrain cost"]
+	},
 
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",
