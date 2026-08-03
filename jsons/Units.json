@@ -2,7 +2,7 @@
 	// National Units
   {
     "name": "Horse of Joy",
-    "unitType": "Armored",
+    "unitType": "Mounted",
     "movement": 4,
     "strength": 65,
     "cost": 450,
@@ -19,7 +19,7 @@
     "movement": 2,
     "strength": 120,
     "cost": 1000,
-    "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
+    "uniques": ["[3] free [Horse of Joy] units appear","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
     "attackSound": "tankshot",
     "civilopediaText": [{"text":"An agile, massive mechanical horse tears through, driven by the power of steam."}]
@@ -42,10 +42,9 @@
     "name": "Pehlivan",
     "unitType": "Melee",
     "movement": 3,
-    "strength": 95,
+    "strength": 75,
     "cost": 500,
-    "requiredResource": "Iron",
-    "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
+    "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
     "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
@@ -55,9 +54,9 @@
     "unitType": "Colossal",
     "movement": 2,
     "strength": 200,
-    "cost": 1150,
+    "cost": 1800,
     "uniques": ["[+500]% Strength <vs cities>",
-      "Nuclear weapon of Strength [25]",
+      "Nuclear weapon of Strength [5]",
       "Blast radius [5]","Self-destructs when attacking","Triggers the following global alert: [May God have mercy on you, for the bull won't.]"
       ,"Never appears as a Barbarian unit","Limited to [1] per Civilization"],
     "uniqueTo": "Golden Sultanate",
