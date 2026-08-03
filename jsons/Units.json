@@ -14,8 +14,8 @@
     
   },
   {
-    "name": "Titan Leviathan",
-    "unitType": "Armored",
+    "name": "Colossal Titan",
+    "unitType": "Colossal",
     "movement": 2,
     "strength": 140,
     "cost": 800,
@@ -27,7 +27,7 @@
   
   {
     "name": "Pehlivan",
-    "unitType": "Armored",
+    "unitType": "Melee",
     "movement": 3,
     "strength": 95,
     "cost": 500,
@@ -40,7 +40,7 @@
   },
   {
    "name": "Rosed Bull",
-    "unitType": "Armored",
+    "unitType": "Colossal",
     "movement": 2,
     "strength": 200,
     "cost": 1150,
