@@ -93,7 +93,6 @@
 		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
