@@ -32,7 +32,6 @@
     "strength": 95,
     "cost": 500,
     "requiredResource": "Iron",
-    "upgradesTo": "Titan Leviathan",
     "uniques": ["[+75]% Strength <vs cities>","Can move after attacking","Never appears as a Barbarian unit"],
     "uniqueTo": "Golden Sultanate",
     "attackSound": "metalhit",
@@ -86,6 +85,18 @@
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
         ]
+	},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
 	},
 	
 	// Great People
