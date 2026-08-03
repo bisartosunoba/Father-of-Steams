@@ -335,16 +335,6 @@
         "column": 13,
         "row": 3
 	},
-
-
-	{
-		"name": "Wolfpack III",
-		"prerequisites": ["Wolfpack II"],
-		"uniques": ["[+25]% Strength <when attacking>"],
-		"unitTypes": ["Submarine"],
-        "column": 14,
-        "row": 3
-
 	// Aircraft Carrier
 	{
 		"name": "Armor Plating I",
