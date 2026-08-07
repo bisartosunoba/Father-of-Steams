@@ -80,24 +80,6 @@
 	// Standart Units
 
   
-	{
-		"name": "Worker",
-		"unitType": "Civilian",
-		"movement": 2,
-		"requiredTech": "Agriculture",
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 70
-	},
-	{
-		"name": "Settler",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 106,
-		"requiredTech": "Agriculture",
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population"],
-		"hurryCostModifier": 20
-	},
 [
 
 	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
@@ -1805,7 +1787,53 @@
 			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"[+1] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit"
-		]
-	
+		],
+		"movement": 3
+	},
+
+	/* Spaceship Parts */
+
+	// Must be transported to the Capital for launch.
+	// Can be destroyed by any hostile military unit walking in their tile.
+	{
+		"name": "SS Booster",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Advanced Ballistics",
+		"requiredResource": "Aluminum",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [3] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Cockpit",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Satellites",
+		"requiredResource": "Aluminum",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Engine",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Particle Physics",
+		"requiredResource": "Aluminum",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
+		// costs 1500 in BNW
+	},
+	{
+		"name": "SS Stasis Chamber",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 750,
+		"requiredTech": "Nanotechnology",
+		"requiredResource": "Aluminum",
+		"uniques": ["Spaceship part", "Cannot be purchased", "Only available <if [Apollo Program] is constructed>", "Uncapturable", "Can be added to [The Spaceship] in the Capital", "Limited to [1] per Civilization", "Only available <when [Scientific] Victory is enabled>"]
+		// costs 1500 in BNW
 	}
-		]
+]
+
