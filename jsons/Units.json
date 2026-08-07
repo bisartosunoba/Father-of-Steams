@@ -1,18 +1,6 @@
 [
 	// National Units
-  {
-    "name": "Horse of Joy",
-    "unitType": "Mounted",
-    "movement": 4,
-    "strength": 65,
-    "cost": 450,
-    "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
-    "uniqueTo": "Lovers of the Wall",
-    "attackSound": "tankshot",
-    "civilopediaText": [{"text":"An agile, massive mechanical horse tears through, driven by the power of steam."}]
-    
-    
-  },
+
 	{
     "name": "Walking Wall",
     "unitType": "Colossal",
@@ -22,7 +10,7 @@
     "uniques": ["[3] free [Horse of Joy] units appear","Never appears as a Barbarian unit"],
     "uniqueTo": "Lovers of the Wall",
     "attackSound": "tankshot",
-    "civilopediaText": [{"text":""}]
+    "civilopediaText": [{"text":"The enthusiasm of the ceremony awakens even the walls!"}]
     
     
   },
@@ -36,18 +24,6 @@
     "uniqueTo": "Titan Kin",
     "attackSound": "tankshot",
     "civilopediaText":[{"text":"The massive cannons mounted on their shoulders are counting down the days until they can open fire on their opponents."}],
-  },
-  
-  {
-    "name": "Pehlivan",
-    "unitType": "Melee",
-    "movement": 3,
-    "strength": 75,
-    "cost": 500,
-    "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
-    "uniqueTo": "Golden Sultanate",
-    "attackSound": "metalhit",
-    "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
   },
   {
    "name": "Rosed Bull",
@@ -63,6 +39,44 @@
     "attackSound": "nuke",
     "civilopediaText":[{"text":"A bull even bigger than the largest tank, whose sole purpose is to detonate the bomb in the right place and achieve martyrdom."}],
   },
+  
+  {
+    "name": "Pehlivan",
+    "unitType": "Melee",
+    "movement": 3,
+    "strength": 75,
+    "cost": 500,
+    "uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+    "uniqueTo": "Golden Sultanate",
+    "attackSound": "metalhit",
+    "civilopediaText": [{"text":"Just donning this armour is a feat in itself; with his heavy sword, he’ll split tanks in two."}]
+  },
+	{
+    "name": "Horse of Joy",
+    "unitType": "Mounted",
+    "movement": 4,
+    "strength": 65,
+    "cost": 450,
+    "uniques": ["Can move after attacking","[1] additional attacks per turn","Never appears as a Barbarian unit"],
+    "uniqueTo": "Lovers of the Wall",
+    "attackSound": "tankshot",
+    "civilopediaText": [{"text":"In the palace behind the walls, only one of the creatures empowered by the wall's psychic energy is being held for the ceremony."}]
+    
+    
+  },
+	{
+    "name": "Experimental Warrior",
+    "unitType": "Melee",
+    "movement": 2,
+    "strength": 35,
+    "cost": 300,
+    "uniques": ["[35] XP gained from combat","Never appears as a Barbarian unit"],
+    "uniqueTo": "Titan Kin",
+    "attackSound": "metalhit",
+    "civilopediaText": [{"text":"An unmanned, learning combat bot, no need for further expense."}]
+  },
+	
+
 	// Standart Units
 
   
