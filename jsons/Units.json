@@ -337,23 +337,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
-	{
-		"name": "Companion Cavalry",
-		"unitType": "Mounted",
-		"uniqueTo": "Greece",
-		"replaces": "Horseman",
-		"movement": 5,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Horseback Riding",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"promotions": ["Great Generals I"],
-		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
-	},
+	
 	
 	{
 		"name": "Catapult",
